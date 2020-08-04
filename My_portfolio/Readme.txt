@@ -30,11 +30,14 @@ Here I have y professional portfolio build with HTML and CSS.
     <img src="assets/img/microverse.png" alt="Microverse Logo" width="80" height="80">
   </a>
   
-  <h3 align="center">Ruby Linter</h3>
+  <h3 align="center">My Portfolio</h3>
   
   <p align="center">
     This project is part of the Microverse curriculum in Ruby module!
     <br />
+    <a href="https://github.com/jstloyal/private-events">
+      <img src="assets/img/my-portfolio.png" alt="portfolio page" width="1000" height="400">
+    </a><br />
     <a href="https://github.com/jstloyal/portfolio"><strong>Explore the docs »</strong></a>
     <br />
     <br />
