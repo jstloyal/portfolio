@@ -1,6 +1,6 @@
 # MY PORTFOLIO
 
-Here I have y professional portfolio build with HTML and CSS.
+Here I have my professional portfolio build with HTML and CSS.
 
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
