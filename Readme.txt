@@ -29,14 +29,14 @@ Here I have my professional portfolio build with HTML and CSS.
   <a href="https://github.com/jstloyal/portfolio">
     <img src="assets/img/microverse.png" alt="Microverse Logo" width="80" height="80">
   </a>
-  
+
   <h3 align="center">My Portfolio</h3>
-  
+
   <p align="center">
     This project is part of the Microverse curriculum in Ruby module!
     <br />
-    <a href="https://github.com/jstloyal/private-events">
-      <img src="assets/img/my-portfolio.png" alt="portfolio page" width="1000" height="400">
+    <a href="https://github.com/jstloyal/portfolio">
+      <img src="https://res.cloudinary.com/jstloyalty/image/upload/v1599165394/myPortfolio/fwvi0wh7g1ufuwo2xr4w.png" alt="portfolio page" width="1000" height="400">
     </a><br />
     <a href="https://github.com/jstloyal/portfolio"><strong>Explore the docs »</strong></a>
     <br />
@@ -73,13 +73,14 @@ This project was built using these technologies.
 - HTML
 - CSS
 - VsCode
+-Javascript
 - Git
 
 <!-- LIVE VERSION -->
 
 ## Live version
 
-
+[Live Demo](https://jstloyal.github.io/portfolio/index.html)
 
 <!-- CONTACT -->
 
@@ -97,8 +98,7 @@ This project was built using these technologies.
 ## Acknowledgements
 
 - [Microverse](https://www.microverse.org/)
-- [The Odin Project](https://www.theodinproject.com/)
-- [Ruby Documentation](https://www.ruby-lang.org/en/documentation/)
+- [iPortfolio]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
