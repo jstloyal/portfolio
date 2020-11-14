@@ -26,9 +26,6 @@ Here I have my professional portfolio build with HTML and CSS.
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/jstloyal/portfolio">
-    <img src="assets/img/microverse.png" alt="Microverse Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">My Portfolio</h3>
 
@@ -36,7 +33,7 @@ Here I have my professional portfolio build with HTML and CSS.
     This project is part of the Microverse curriculum in Ruby module!
     <br />
     <a href="https://github.com/jstloyal/portfolio">
-      <img src="https://res.cloudinary.com/jstloyalty/image/upload/v1599165394/myPortfolio/fwvi0wh7g1ufuwo2xr4w.png" alt="portfolio page" width="1000" height="400">
+      <img src="https://res.cloudinary.com/jstloyalty/image/upload/v1605366505/anfd8ynvj0erozmibba2.png" width="800" height="400">
     </a><br />
     <a href="https://github.com/jstloyal/portfolio"><strong>Explore the docs »</strong></a>
     <br />
